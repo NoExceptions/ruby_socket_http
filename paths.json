@@ -1,0 +1,9 @@
+{
+  "paths":
+  [
+    {
+    "request":"/",
+    "response":"index.html"
+    }
+  ]
+}
